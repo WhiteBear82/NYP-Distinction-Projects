@@ -9,7 +9,7 @@
 For this project, I developed a web application, which includes a platform for users to add friends and socialize, a personal calendar for each user to add and view their events, an email sending platform that they can login using their Google, Yahoo or Hotmail/Outlook Account, and an achievement page as an incentives for attracting and maintaining users.
 In addition, I also applied Network Security concepts to the web application, such as Network Load Balancing, Availability and Redundancy, as well as Secured Email Service.
 The web application and database was hosted in the Cloud.
-![alt text](https://github.com/WhiteBear82/NYP-Distinction-Projects/blob/main/Images/"NetworkSecurity.jpg"?raw=true)
+![alt text](https://github.com/WhiteBear82/NYP-Distinction-Projects/blob/main/Images/NetworkSecurity.jpg?raw=true)
 
 **Year 2 (Semester 2) - Applications Security & Project**
 For this project, I developed a web application, which includes a platform for users to pre-order food or to set up stalls to sell their food :)
